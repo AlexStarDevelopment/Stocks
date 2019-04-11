@@ -1,0 +1,14 @@
+D:\source\Adv Partner\WealthManager\WealthManager.SL.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\source\Adv Partner\WealthManager\WealthManager.SL.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\source\Adv Partner\WealthManager\WealthManager.SL.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\source\Adv Partner\WealthManager\WealthManager.SL.Test\bin\Debug\WealthManager.SL.Test.dll
+D:\source\Adv Partner\WealthManager\WealthManager.SL.Test\bin\Debug\WealthManager.SL.Test.pdb
+D:\source\Adv Partner\WealthManager\WealthManager.SL.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\source\Adv Partner\WealthManager\WealthManager.SL.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\source\Adv Partner\WealthManager\WealthManager.SL.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\source\Adv Partner\WealthManager\WealthManager.SL.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\source\Adv Partner\WealthManager\WealthManager.SL.Test\obj\Debug\WealthManager.SL.Test.csprojAssemblyReference.cache
+D:\source\Adv Partner\WealthManager\WealthManager.SL.Test\obj\Debug\WealthManager.SL.Test.csproj.CoreCompileInputs.cache
+D:\source\Adv Partner\WealthManager\WealthManager.SL.Test\obj\Debug\WealthManager.SL.Test.csproj.CopyComplete
+D:\source\Adv Partner\WealthManager\WealthManager.SL.Test\obj\Debug\WealthManager.SL.Test.dll
+D:\source\Adv Partner\WealthManager\WealthManager.SL.Test\obj\Debug\WealthManager.SL.Test.pdb

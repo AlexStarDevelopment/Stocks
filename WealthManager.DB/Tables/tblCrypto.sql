@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[tblCrypto]
+(
+	[Id] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY, 
+    [UserId] UNIQUEIDENTIFIER NOT NULL, 
+    [Symbol] NCHAR(100) NOT NULL, 
+    [CurrentPrice] DECIMAL(18, 2) NOT NULL
+)

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Wealth">
+  <DataContextMoniker Name="/WealthDataContext" />
+  <nestedChildShapes>
+    <classShape Id="f6fc1104-cec5-4ee8-b644-c869c718bf91" absoluteBounds="2.625, 0.5, 2, 1.9631982421875">
+      <DataClassMoniker Name="/WealthDataContext/tblTransaction" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7561bf55-1e1a-41e5-bc3e-345dd1a6c3fc" absoluteBounds="2.64, 0.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3647fd24-1b8b-4b04-ab85-c03585905d3e" absoluteBounds="0.5, 0.5, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/WealthDataContext/tblUser" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2b0190f1-02e0-4170-8e7d-c3da6617c69f" absoluteBounds="0.51500000000000012, 0.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="27f76cc0-56fc-43ec-8c92-e90a265efd6c" absoluteBounds="2.625, 2.625, 2, 1.3862939453125">
+      <DataClassMoniker Name="/WealthDataContext/tblErrorLog" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fb0f0089-f989-4f06-9277-a6532057b221" absoluteBounds="2.64, 3.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fbfa7f1a-35de-456e-aa10-41a28e018a04" absoluteBounds="0.5, 2.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/WealthDataContext/tblStock" />
+      <nestedChildShapes>
+        <elementListCompartment Id="efb7f776-fdbc-4663-8a59-c0a1cc9764b0" absoluteBounds="0.51500000000000012, 3.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8ad3989b-6348-423c-9ccd-0dfa4c70a3a2" absoluteBounds="0.5, 4.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/WealthDataContext/tblCrypto" />
+      <nestedChildShapes>
+        <elementListCompartment Id="091eb17b-f7b3-4070-85b3-6317425ec09b" absoluteBounds="0.51500000000000012, 4.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c00b4f65-2be8-49cc-ad70-af80dd21ee8d" absoluteBounds="2.625, 4.125, 2, 1.9631982421875">
+      <DataClassMoniker Name="/WealthDataContext/tblCryptoTran" />
+      <nestedChildShapes>
+        <elementListCompartment Id="020d5dc4-5b46-4f2a-a569-4f93339221c4" absoluteBounds="2.64, 4.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

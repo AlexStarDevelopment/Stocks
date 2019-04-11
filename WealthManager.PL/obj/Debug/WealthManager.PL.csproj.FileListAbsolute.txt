@@ -1,0 +1,10 @@
+D:\source\Adv Partner\WealthManager\WealthManager.PL\bin\Debug\WealthManager.PL.dll.config
+D:\source\Adv Partner\WealthManager\WealthManager.PL\bin\Debug\WealthManager.PL.dll
+D:\source\Adv Partner\WealthManager\WealthManager.PL\bin\Debug\WealthManager.PL.pdb
+D:\source\Adv Partner\WealthManager\WealthManager.PL\bin\Debug\WealthManager.DB.dll
+D:\source\Adv Partner\WealthManager\WealthManager.PL\bin\Debug\WealthManager.DB.pdb
+D:\source\Adv Partner\WealthManager\WealthManager.PL\obj\Debug\WealthManager.PL.csprojAssemblyReference.cache
+D:\source\Adv Partner\WealthManager\WealthManager.PL\obj\Debug\WealthManager.PL.csproj.CoreCompileInputs.cache
+D:\source\Adv Partner\WealthManager\WealthManager.PL\obj\Debug\WealthManager.PL.csproj.CopyComplete
+D:\source\Adv Partner\WealthManager\WealthManager.PL\obj\Debug\WealthManager.PL.dll
+D:\source\Adv Partner\WealthManager\WealthManager.PL\obj\Debug\WealthManager.PL.pdb

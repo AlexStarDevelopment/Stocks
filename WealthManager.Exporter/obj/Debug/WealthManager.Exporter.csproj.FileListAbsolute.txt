@@ -1,0 +1,6 @@
+D:\source\Adv Partner\WealthManager\WealthManager.Exporter\bin\Debug\WealthManager.Exporter.dll
+D:\source\Adv Partner\WealthManager\WealthManager.Exporter\bin\Debug\WealthManager.Exporter.pdb
+D:\source\Adv Partner\WealthManager\WealthManager.Exporter\obj\Debug\WealthManager.Exporter.csprojAssemblyReference.cache
+D:\source\Adv Partner\WealthManager\WealthManager.Exporter\obj\Debug\WealthManager.Exporter.csproj.CoreCompileInputs.cache
+D:\source\Adv Partner\WealthManager\WealthManager.Exporter\obj\Debug\WealthManager.Exporter.dll
+D:\source\Adv Partner\WealthManager\WealthManager.Exporter\obj\Debug\WealthManager.Exporter.pdb

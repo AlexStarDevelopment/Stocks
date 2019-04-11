@@ -1,0 +1,17 @@
+D:\source\Adv Partner\WealthManager\WealthManager.SL\bin\WealthManager.SL.dll.config
+D:\source\Adv Partner\WealthManager\WealthManager.SL\bin\WealthManager.SL.dll
+D:\source\Adv Partner\WealthManager\WealthManager.SL\bin\WealthManager.SL.pdb
+D:\source\Adv Partner\WealthManager\WealthManager.SL\bin\WealthManager.BL.dll
+D:\source\Adv Partner\WealthManager\WealthManager.SL\bin\Newtonsoft.Json.dll
+D:\source\Adv Partner\WealthManager\WealthManager.SL\bin\WealthManager.PL.dll
+D:\source\Adv Partner\WealthManager\WealthManager.SL\bin\WealthManager.Exporter.dll
+D:\source\Adv Partner\WealthManager\WealthManager.SL\bin\WealthManager.BL.pdb
+D:\source\Adv Partner\WealthManager\WealthManager.SL\bin\Newtonsoft.Json.xml
+D:\source\Adv Partner\WealthManager\WealthManager.SL\bin\WealthManager.PL.pdb
+D:\source\Adv Partner\WealthManager\WealthManager.SL\bin\WealthManager.PL.dll.config
+D:\source\Adv Partner\WealthManager\WealthManager.SL\bin\WealthManager.Exporter.pdb
+D:\source\Adv Partner\WealthManager\WealthManager.SL\obj\Debug\WealthManager.SL.csprojAssemblyReference.cache
+D:\source\Adv Partner\WealthManager\WealthManager.SL\obj\Debug\WealthManager.SL.csproj.CoreCompileInputs.cache
+D:\source\Adv Partner\WealthManager\WealthManager.SL\obj\Debug\WealthManager.SL.csproj.CopyComplete
+D:\source\Adv Partner\WealthManager\WealthManager.SL\obj\Debug\WealthManager.SL.dll
+D:\source\Adv Partner\WealthManager\WealthManager.SL\obj\Debug\WealthManager.SL.pdb

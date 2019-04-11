@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Stock</title>
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.10.2/d3.min.js"></script> -->
+
+    <style>
+      path {
+        stroke: #FFF;
+      }
+    </style>
+    <link type="text/css" rel="stylesheet" href="./style.css"/>
+  </head>
+  <body>
+    <div class="searchbar">
+      <h1>STOCK</h1>
+      <form id="searchbar-form">
+        <input name="searchedStock" type="text" placeholder="Find your stock (googl aapl tsla)"/>
+        <input type="submit" value="Search"/>
+      </form>
+    </div> <!-- end searchbar -->
+    <div class="charts">
+      <!-- sunburst container -->
+      <div class="sunburst-container">
+        <h1>Top 5 Tech Companies</h1>
+        <div id="breadcrumbs"></div>
+        <div id="sunburst"></div>
+      </div>
+
+      <div class="line-graph-container">
+        <div id="line-graph">
+          <div class="info">
+            <h1 id="company"></h1>
+            <div class="legend">
+              <h4 id="open">Open</h4>
+              <h4 id="high">High</h4>
+            </div>
+          </div>
+          <div class="loader"></div>
+        </div>
+      </div>
+    </div> <!-- end charts -->
+    <script src="./bundle.js"></script>
+  </body>
+</html>

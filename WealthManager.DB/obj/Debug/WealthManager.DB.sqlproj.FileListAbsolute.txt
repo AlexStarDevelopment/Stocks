@@ -1,0 +1,6 @@
+D:\source\Adv Partner\WealthManager\WealthManager.DB\bin\Debug\WealthManager.DB.dacpac
+D:\source\Adv Partner\WealthManager\WealthManager.DB\bin\Debug\WealthManager.DB.dll
+D:\source\Adv Partner\WealthManager\WealthManager.DB\bin\Debug\WealthManager.DB.pdb
+D:\source\Adv Partner\WealthManager\WealthManager.DB\obj\Debug\WealthManager.DB.dll
+D:\source\Adv Partner\WealthManager\WealthManager.DB\obj\Debug\WealthManager.DB.pdb
+D:\source\Adv Partner\WealthManager\WealthManager.DB\obj\Debug\WealthManager.DB.sqlprojAssemblyReference.cache

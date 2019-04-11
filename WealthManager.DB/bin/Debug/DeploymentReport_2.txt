@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[tblCrypto] (Table)
+       [dbo].[tblCryptoTran] (Table)
+       [dbo].[tblErrorLog] (Table)
+       [dbo].[tblStock] (Table)
+       [dbo].[tblTransaction] (Table)
+       [dbo].[tblUser] (Table)
+       [dbo].[spGetTransactions] (Procedure)
+
+** Supporting actions

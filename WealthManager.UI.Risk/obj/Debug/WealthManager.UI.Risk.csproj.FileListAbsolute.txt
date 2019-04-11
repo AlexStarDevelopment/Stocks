@@ -1,0 +1,10 @@
+D:\source\Adv Partner\WealthManager\WealthManager.UI.Risk\bin\Debug\WealthManager.UI.Risk.exe.config
+D:\source\Adv Partner\WealthManager\WealthManager.UI.Risk\bin\Debug\WealthManager.UI.Risk.exe
+D:\source\Adv Partner\WealthManager\WealthManager.UI.Risk\bin\Debug\WealthManager.UI.Risk.pdb
+D:\source\Adv Partner\WealthManager\WealthManager.UI.Risk\obj\Debug\WealthManager.UI.Risk.csprojAssemblyReference.cache
+D:\source\Adv Partner\WealthManager\WealthManager.UI.Risk\obj\Debug\WealthManager.UI.Risk.Form1.resources
+D:\source\Adv Partner\WealthManager\WealthManager.UI.Risk\obj\Debug\WealthManager.UI.Risk.Properties.Resources.resources
+D:\source\Adv Partner\WealthManager\WealthManager.UI.Risk\obj\Debug\WealthManager.UI.Risk.csproj.GenerateResource.cache
+D:\source\Adv Partner\WealthManager\WealthManager.UI.Risk\obj\Debug\WealthManager.UI.Risk.csproj.CoreCompileInputs.cache
+D:\source\Adv Partner\WealthManager\WealthManager.UI.Risk\obj\Debug\WealthManager.UI.Risk.exe
+D:\source\Adv Partner\WealthManager\WealthManager.UI.Risk\obj\Debug\WealthManager.UI.Risk.pdb
